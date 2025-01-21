@@ -55,7 +55,7 @@ This assignment involved writing a report based on the industry talk by Mr. Nik 
 This assignment involved creating a newsletter about our visit to the **MAGICX** research center. The newsletter includes an overview of the visit, key points from the talk by Prof. Dr. Mohd. Yazid, a showcase of technologies, and a reflection on the experience.
 
 ## Newsletter
-[Industrial Visit 2](#)
+[Industrial Visit 2](https://github.com/MoAbdo122004/TIS/blob/baefcd81200decb7d9ca86094e887cf27387e821/ASSIGNMENT%204%20(Industrial%20Visit%202)%20-%20NEWSLETTER.pdf)
 
 ## Reflection
 1. **Summary**: The visit to MAGICX provided valuable insights into the use of game engines and VR in engineering. We learned about Unity certifications, VR technologies, and how simulations are used to solve real-world problems.
