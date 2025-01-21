@@ -48,3 +48,16 @@ This assignment involved writing a report based on the industry talk by Mr. Nik 
 2. **Improvement**: To improve the report, we could include more case studies or examples of successful IT professionals. We could also add a section on how to bridge the gap between academic training and industry expectations.
 3. **Others**: This assignment helped me realize the importance of balancing technical expertise with soft skills like communication and teamwork. It also motivated me to pursue certifications and hands-on projects to enhance my career prospects.
 
+
+# Assignment 4: Industrial Visit 2 - Newsletter
+
+## Overview
+This assignment involved creating a newsletter about our visit to the **MAGICX** research center. The newsletter includes an overview of the visit, key points from the talk by Prof. Dr. Mohd. Yazid, a showcase of technologies, and a reflection on the experience.
+
+## Newsletter
+[Industrial Visit 2](#)
+
+## Reflection
+1. **Summary**: The visit to MAGICX provided valuable insights into the use of game engines and VR in engineering. We learned about Unity certifications, VR technologies, and how simulations are used to solve real-world problems.
+2. **Improvement**: To improve the newsletter, we could include more visuals, such as photos or diagrams of the technologies showcased. We could also add a section on how students can get involved with MAGICX’s projects.
+3. **Others**: This assignment helped me understand the practical applications of game engines and VR in engineering. It also inspired me to explore certifications and hands-on projects to enhance my technical skills.
