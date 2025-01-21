@@ -61,3 +61,23 @@ This assignment involved creating a newsletter about our visit to the **MAGICX**
 1. **Summary**: The visit to MAGICX provided valuable insights into the use of game engines and VR in engineering. We learned about Unity certifications, VR technologies, and how simulations are used to solve real-world problems.
 2. **Improvement**: To improve the newsletter, we could include more visuals, such as photos or diagrams of the technologies showcased. We could also add a section on how students can get involved with MAGICX’s projects.
 3. **Others**: This assignment helped me understand the practical applications of game engines and VR in engineering. It also inspired me to explore certifications and hands-on projects to enhance my technical skills.
+
+
+# Project: Design Thinking - Library Management System
+
+## Overview
+This project involved applying the **Design Thinking** process to address inefficiencies in the university library system. The goal was to create a **Library Management System** that improves resource discovery, borrowing processes, and space management for students and staff.
+
+## Project Link
+[Project: Library Management System]()
+
+## Reflection
+1. **Summary**: 
+   - Through this project, we identified key challenges in the university library, such as difficulty in locating books, inefficient borrowing processes, and overcrowded study spaces. We developed a **mobile app prototype** to address these issues, featuring book search, study space booking, and automated borrowing systems.
+   - The project helped us understand the importance of **user-centered design** and the value of gathering feedback from students and staff to create effective solutions.
+   
+2. **Improvement**: 
+   - To improve the project, we could conduct more extensive user testing with a larger group of students and staff. Additionally, we could integrate **AI-powered recommendations** to personalize book suggestions and enhance the user experience.
+   
+3. **Others**: 
+   - This project taught me the importance of **team collaboration** and **problem-solving** in designing technology-based solutions. It also inspired me to explore more advanced UI/UX design tools and techniques for future projects.
