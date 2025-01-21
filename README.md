@@ -51,13 +51,13 @@ This assignment involved writing a report based on the industry talk by Mr. Nik 
 
 # Assignment 4: Industrial Visit 2 - Newsletter
 
-## Overview
+- ## Overview
 This assignment involved creating a newsletter about our visit to the **MAGICX** research center. The newsletter includes an overview of the visit, key points from the talk by Prof. Dr. Mohd. Yazid, a showcase of technologies, and a reflection on the experience.
 
-## Newsletter
+- ## Newsletter
 [Assignment 4: Industrial Visit 2](https://github.com/MoAbdo122004/TIS/blob/baefcd81200decb7d9ca86094e887cf27387e821/ASSIGNMENT%204%20(Industrial%20Visit%202)%20-%20NEWSLETTER.pdf)
 
-## Reflection
+- ## Reflection
 1. **Summary**: The visit to MAGICX provided valuable insights into the use of game engines and VR in engineering. We learned about Unity certifications, VR technologies, and how simulations are used to solve real-world problems.
 2. **Improvement**: To improve the newsletter, we could include more visuals, such as photos or diagrams of the technologies showcased. We could also add a section on how students can get involved with MAGICX’s projects.
 3. **Others**: This assignment helped me understand the practical applications of game engines and VR in engineering. It also inspired me to explore certifications and hands-on projects to enhance my technical skills.
@@ -65,13 +65,13 @@ This assignment involved creating a newsletter about our visit to the **MAGICX**
 
 # Project: Design Thinking - Library Management System
 
-## Overview
+- ## Overview
 This project involved applying the **Design Thinking** process to address inefficiencies in the university library system. The goal was to create a **Library Management System** that improves resource discovery, borrowing processes, and space management for students and staff.
 
-## Project Link
-[Project: Library Management System]()
+- ## Project Link
+[Project: Library Management System](https://github.com/MoAbdo122004/TIS/blob/466b776cfb8ef0cada6bf5a5e9155217dbd0f09c/PROJECT%20DESIGN%20THINKING.pdf)
 
-## Reflection
+- ## Reflection
 1. **Summary**: 
    - Through this project, we identified key challenges in the university library, such as difficulty in locating books, inefficient borrowing processes, and overcrowded study spaces. We developed a **mobile app prototype** to address these issues, featuring book search, study space booking, and automated borrowing systems.
    - The project helped us understand the importance of **user-centered design** and the value of gathering feedback from students and staff to create effective solutions.
