@@ -4,6 +4,7 @@
 - **Group:** **5**
 - **Course Name:** **TECHNOLOGY AND INFORMATION SYSTEM**
 - **Course Code:** **SECP1513**
+------------------------------------------------------------------------------------------------------------------------------
 
 # Assignment 1: Industry Talk 1 - Poster
 
@@ -18,7 +19,7 @@
 2. **Improvement**:
    - To improve the poster, I could include more detailed statistics or case studies about the impact of ICT in the energy sector. Additionally, I could add testimonials from past participants of the YGP to make the content more engaging.
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 # Assignment 2: Industry Visit 1 - Video
 
@@ -38,7 +39,7 @@
 3. **Others**:
    - This assignment helped me understand the importance of teamwork and communication in creating a professional video. It also inspired me to explore career opportunities in ICT and improve my technical skills.
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 # Assignment 3:  ACADEMIC WRITING ON INDUSTRIES TALK 2
 
@@ -58,6 +59,7 @@
 3. **Others**:
    - This assignment helped me realize the importance of balancing technical expertise with soft skills like communication and teamwork. It also motivated me to pursue certifications and hands-on projects to enhance my career prospects.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 # Assignment 4: Industrial Visit 2 - Newsletter
 
@@ -75,6 +77,7 @@
 3. **Others**:
    - This assignment helped me understand the practical applications of game engines and VR in engineering. It also inspired me to explore certifications and hands-on projects to enhance my technical skills.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 # Project: Design Thinking - Library Management System
 
