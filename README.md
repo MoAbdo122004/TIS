@@ -16,6 +16,8 @@ This assignment involved creating a poster based on the PETRONAS Digital Young G
 1. **Summary**: The Industry Talk provided valuable insights into the role of ICT in transforming industries, particularly in the energy sector. The PETRONAS Digital YGP offers fresh graduates a platform to develop technical and leadership skills in areas like data analytics, cybersecurity, cloud computing, and AI.
 2. **Improvement**: To improve the poster, I could include more detailed statistics or case studies about the impact of ICT in the energy sector. Additionally, I could add testimonials from past participants of the YGP to make the content more engaging.
 
+
+
 # Assignment 2: Industry Visit 1 - Video
 
 - ## Overview
@@ -31,3 +33,21 @@ This assignment involved creating a video about our visit to UTMDigital. The vid
 2. **UTMDigital Presentation**: We discussed the company profile, structure, and services, and included an interview with a UTMDigital staff member.
 3. **Attended Talk**: We summarized the talk we attended and shared what we learned.
 4. **Conclusion**: The visit was highly beneficial, as it provided practical insights into the ICT industry and reinforced the concepts we learned in class.
+
+
+
+# Assignment 3:  ACADEMIC WRITING ON INDUSTRIES TALK 2
+
+- ## Overview
+This assignment involved writing a report based on the industry talk by Mr. Nik Muhammad Habibullah. The report covers essential skills for IT careers, career development strategies, and entrepreneurship.
+
+- ## Report
+[Assignment 3: Industry Talk Report](#) 
+
+- ## Reflection
+1. **Introduction**: We summarized the industry talk and its focus on essential skills for IT careers.
+2. **Speaker Experience**: We discussed Mr. Nik's background, achievements, and contributions to the IT industry.
+3. **Basic Skills for Computer Science**: We highlighted the technical and soft skills emphasized in the talk.
+4. **Skills Required by Industry**: We analyzed the skills demanded by the IT industry and the gap between academic training and industry expectations.
+5. **Conclusion**: The talk inspired us to focus on continuous learning, practical experience, and time management to succeed in the IT field.
+
