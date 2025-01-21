@@ -11,7 +11,7 @@
 This assignment involved creating a poster based on the PETRONAS Digital Young Graduates Program (YGP) and the role of ICT in the industry. The poster highlights key areas such as data analytics, cybersecurity, cloud computing, and AI, as well as the benefits of the YGP program.
 
 - ## Poster
-[(ASSIGNMENT 1 (Industry Talk 1)](https://github.com/MoAbdo122004/TIS/blob/97e967bb1c1815b9d98e53dce050bad30f39c374/ASSIGNMENT%201%20(Industry%20Talk%201)%20.pdf)
+[ASSIGNMENT 1: Industry Talk 1](https://github.com/MoAbdo122004/TIS/blob/97e967bb1c1815b9d98e53dce050bad30f39c374/ASSIGNMENT%201%20(Industry%20Talk%201)%20.pdf)
 - ## Reflection
 1. **Summary**: The Industry Talk provided valuable insights into the role of ICT in transforming industries, particularly in the energy sector. The PETRONAS Digital YGP offers fresh graduates a platform to develop technical and leadership skills in areas like data analytics, cybersecurity, cloud computing, and AI.
 2. **Improvement**: To improve the poster, I could include more detailed statistics or case studies about the impact of ICT in the energy sector. Additionally, I could add testimonials from past participants of the YGP to make the content more engaging.
@@ -55,7 +55,7 @@ This assignment involved writing a report based on the industry talk by Mr. Nik 
 This assignment involved creating a newsletter about our visit to the **MAGICX** research center. The newsletter includes an overview of the visit, key points from the talk by Prof. Dr. Mohd. Yazid, a showcase of technologies, and a reflection on the experience.
 
 ## Newsletter
-[Industrial Visit 2](https://github.com/MoAbdo122004/TIS/blob/baefcd81200decb7d9ca86094e887cf27387e821/ASSIGNMENT%204%20(Industrial%20Visit%202)%20-%20NEWSLETTER.pdf)
+[Assignment 4: Industrial Visit 2](https://github.com/MoAbdo122004/TIS/blob/baefcd81200decb7d9ca86094e887cf27387e821/ASSIGNMENT%204%20(Industrial%20Visit%202)%20-%20NEWSLETTER.pdf)
 
 ## Reflection
 1. **Summary**: The visit to MAGICX provided valuable insights into the use of game engines and VR in engineering. We learned about Unity certifications, VR technologies, and how simulations are used to solve real-world problems.
