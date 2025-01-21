@@ -29,10 +29,9 @@ This assignment involved creating a video about our visit to UTMDigital. The vid
 [Assignment 2: Industry Visit 1](https://github.com/MoAbdo122004/TIS/blob/d99ab942ad73f89653c000db6bc02f6bfba47a41/ASSIGNMENT%202%20(VIDEO)%20-%20Industrial%20visit%201.md)
 
 - ## Reflection
-1. **Introduction**: We introduced our group and provided an overview of the visit.
-2. **UTMDigital Presentation**: We discussed the company profile, structure, and services, and included an interview with a UTMDigital staff member.
-3. **Attended Talk**: We summarized the talk we attended and shared what we learned.
-4. **Conclusion**: The visit was highly beneficial, as it provided practical insights into the ICT industry and reinforced the concepts we learned in class.
+1. **Summary**: The visit to UTMDigital provided valuable insights into the ICT industry. We learned about the company’s profile, structure, and services, and gained practical knowledge from the talk and interview with a UTMDigital staff member.
+2. **Improvement**: To improve the video, we could include more detailed footage of the facilities and add subtitles for better accessibility. We could also conduct more interviews with staff members to gain deeper insights.
+3. **Others**: This assignment helped me understand the importance of teamwork and communication in creating a professional video. It also inspired me to explore career opportunities in ICT and improve my technical skills.
 
 
 
@@ -45,9 +44,7 @@ This assignment involved writing a report based on the industry talk by Mr. Nik 
 [Assignment 3: Industry Talk Report](https://github.com/MoAbdo122004/TIS/blob/d7e1670dfdd7b7a3cee76167451fe5b58cdd4bd7/ASSIGNMENT%203%20-%20INDUSTRIAL%20TALK%202%20(Academic%20Writing)%20.pdf) 
 
 - ## Reflection
-1. **Introduction**: We summarized the industry talk and its focus on essential skills for IT careers.
-2. **Speaker Experience**: We discussed Mr. Nik's background, achievements, and contributions to the IT industry.
-3. **Basic Skills for Computer Science**: We highlighted the technical and soft skills emphasized in the talk.
-4. **Skills Required by Industry**: We analyzed the skills demanded by the IT industry and the gap between academic training and industry expectations.
-5. **Conclusion**: The talk inspired us to focus on continuous learning, practical experience, and time management to succeed in the IT field.
+1. **Summary**: The industry talk highlighted the importance of both technical and soft skills for success in the IT industry. We learned about programming languages, project management, and the need for continuous learning and adaptability.
+2. **Improvement**: To improve the report, we could include more case studies or examples of successful IT professionals. We could also add a section on how to bridge the gap between academic training and industry expectations.
+3. **Others**: This assignment helped me realize the importance of balancing technical expertise with soft skills like communication and teamwork. It also motivated me to pursue certifications and hands-on projects to enhance my career prospects.
 
