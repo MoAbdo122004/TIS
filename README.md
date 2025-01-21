@@ -41,7 +41,7 @@ This assignment involved creating a video about our visit to UTMDigital. The vid
 This assignment involved writing a report based on the industry talk by Mr. Nik Muhammad Habibullah. The report covers essential skills for IT careers, career development strategies, and entrepreneurship.
 
 - ## Report
-[Assignment 3: Industry Talk Report](https://github.com/MoAbdo122004/TIS/blob/d7e1670dfdd7b7a3cee76167451fe5b58cdd4bd7/ASSIGNMENT%203%20-%20INDUSTRIAL%20TALK%202%20(Academic%20Writing)%20.pdf) 
+[Assignment 3: Industry Talk 2 Report](https://github.com/MoAbdo122004/TIS/blob/d7e1670dfdd7b7a3cee76167451fe5b58cdd4bd7/ASSIGNMENT%203%20-%20INDUSTRIAL%20TALK%202%20(Academic%20Writing)%20.pdf) 
 
 - ## Reflection
 1. **Summary**: The industry talk highlighted the importance of both technical and soft skills for success in the IT industry. We learned about programming languages, project management, and the need for continuous learning and adaptability.
