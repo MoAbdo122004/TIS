@@ -22,9 +22,9 @@ This assignment involved creating a poster based on the PETRONAS Digital Young G
 This assignment involved creating a video about our visit to UTMDigital. The video includes an introduction to our group, an overview of the visit, a detailed presentation on UTMDigital, the attended talk, and a conclusion with reflections.
 
 - ## Video
-[Industry Visit 1](https://github.com/MoAbdo122004/TIS/blob/d99ab942ad73f89653c000db6bc02f6bfba47a41/ASSIGNMENT%202%20(VIDEO)%20-%20Industrial%20visit%201.md)
+[<p align="left"> <a href="https://youtu.be/PaKAiLU_Kic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>](https://youtu.be/PaKAiLU_Kic)
 
-[yout](https://youtu.be/PaKAiLU_Kic)
+[Assignment 2: Industry Visit 1](https://github.com/MoAbdo122004/TIS/blob/d99ab942ad73f89653c000db6bc02f6bfba47a41/ASSIGNMENT%202%20(VIDEO)%20-%20Industrial%20visit%201.md)
 
 - ## Reflection
 1. **Introduction**: We introduced our group and provided an overview of the visit.
